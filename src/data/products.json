@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pretty-love-beck",
+    "name": "Pretty Love Beck",
+    "category": "juguetes",
+    "tagline": "Vibrador clásico de silicona",
+    "description": "10 funciones de vibración y silicona suave al tacto. 12 cm de largo × 2 cm de diámetro. Funciona a pila (incluida).",
+    "image": "/products/pretty-love-beck.png"
+  },
+  {
+    "id": "pretty-love-bloody-mary",
+    "name": "Pretty Love Bloody Mary",
+    "category": "juguetes",
+    "tagline": "Vibrador rabbit de doble estimulación",
+    "description": "30 modos de vibración y nuevo material TPR. Más placer y confort, hidratación y relajación, vibración intensa.",
+    "image": "/products/pretty-love-bloody-mary.png"
+  },
+  {
+    "id": "shine",
+    "name": "Shine",
+    "category": "juguetes",
+    "tagline": "Vibrador realista",
+    "description": "23 cm de longitud × 4 cm de diámetro. Para llevar tu experiencia al siguiente nivel.",
+    "image": "/products/shine.png"
+  },
+  {
+    "id": "silince",
+    "name": "Silince",
+    "category": "juguetes",
+    "tagline": "Funda de silicona",
+    "description": "23 cm × 4 cm. Silicona suave y segura, fácil de usar y limpiar. Incluye lubricante íntimo base acuosa de 30 ml.",
+    "image": "/products/silince.png"
+  },
+  {
+    "id": "xxx-for-her",
+    "name": "XXX For Her",
+    "category": "geles",
+    "tagline": "Aceite orgásmico estimulante · Sexitive",
+    "description": "Intensifica el placer, aumenta la sensibilidad y estimula la respuesta natural. Fórmula premium, suave y segura para la piel. 15 ml.",
+    "image": "/products/xxx-for-her.png"
+  },
+  {
+    "id": "black-dragon",
+    "name": "Black Dragon",
+    "category": "geles",
+    "tagline": "Crema intensificante · Sexitive",
+    "description": "Máxima sensibilidad, mayor placer y efecto prolongado. Fórmula dermatológicamente testeada para uso íntimo. 50 ml.",
+    "image": "/products/black-dragon.png"
+  },
+  {
+    "id": "geles-sachets",
+    "name": "Geles íntimos en sachet",
+    "category": "geles",
+    "tagline": "Black Dragon · Oh Yes! Rejuvenation · Oh Yes! Stimulation",
+    "description": "Sachets de 10 ml, veganos y cruelty free. Excitación, sensación y placer: el formato ideal para probar tu favorito.",
+    "image": "/products/geles-sachets.png"
+  },
+  {
+    "id": "oh-yes-rejuvenation",
+    "name": "Oh Yes! Rejuvenation",
+    "category": "geles",
+    "tagline": "Gel crema hidratante · Sexitive",
+    "description": "Rejuvenecimiento de la zona íntima con aceites naturales. Vegano y cruelty free. 10 ml.",
+    "image": "/products/oh-yes-rejuvenation.png"
+  },
+  {
+    "id": "lubricantes-anales",
+    "name": "Lubricantes íntimos",
+    "category": "geles",
+    "tagline": "Wet For Me · Lübe More Play Premium",
+    "description": "Base agua: no manchan y son fáciles de limpiar. Lübe Premium Relaxing con jojoba y manzanilla (130 ml) y Wet For Me (75 ml).",
+    "image": "/products/lubricantes-anales.png"
+  },
+  {
+    "id": "blue-sexy-drops",
+    "name": "Blue Sexy Drops",
+    "category": "bienestar",
+    "tagline": "Suplemento a base de hierbas",
+    "description": "Ginseng con aroma original. Energía y vitalidad para el momento. 10 ml.",
+    "image": "/products/blue-sexy-drops.png"
+  },
+  {
+    "id": "combo-sexitive",
+    "name": "Línea Sexitive Power",
+    "category": "combos",
+    "tagline": "Pink & Blue Sexy Pill · Lübe Supreme · Mine",
+    "description": "Comprimidos con L-Arginina para ella y para él, gel retardante efecto frío (130 ml) y gel íntimo Mine My Pleasure (50 ml).",
+    "image": "/products/combo-sexitive.png"
+  }
+]
